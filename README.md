@@ -17,7 +17,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/4/4c/%E1%9E%95%E1%9F%92%E1%9
        fit="contain">
 
 
-In efforts to capture, uplift, and showcase these dynamic inter-species relationships, the research institution Dumbarton Oaks coined the term "Plant Humanities" which  "explores and communicates the unparalleled significance of plants to human culture."[^1] Since its inception, interest and application of Plant Humanities, as an approach, initiative, and discipline, has grown considerably. This enthusiasm for plants has sprouted several fruitful collabrations across disciplines and sectors around the world.
+In efforts to capture, uplift, and showcase these dynamic inter-species relationships, the research institution ==Dumbarton Oaks== {Q1264942} coined the term "Plant Humanities" which  "explores and communicates the unparalleled significance of plants to human culture."[^1] Since its inception, interest and application of Plant Humanities, as an approach, initiative, and discipline, has grown considerably. This enthusiasm for plants has sprouted several fruitful collabrations across disciplines and sectors around the world.
 
 <param ve-image
 url="https://upload.wikimedia.org/wikipedia/commons/8/8c/100_Piastres_-_Institut_d%27%C3%89mission_des_%C3%89tats_du_Cambodge%2C_du_Laos_et_du_Viet-Nam_%281954%29_Laos_02.jpg"
@@ -33,11 +33,11 @@ Through Plant Humanities, we are able to better understand the overlapping conne
 url="https://upload.wikimedia.org/wikipedia/commons/4/49/Siem_Reap%2C_varios_05.jpg"
        label="ផ្កាក្នុងកូនកញ្ច្រែញ(_flowers as seedlings_)" 
        attribution="LBM1948 via Wikimedia Commons"
-       license= CC BY-SA 4.0
+       license= CC BY-SA 4.0  <https://creativecommons.org/licenses/by-sa/4.0>,"
        fit="contain">
 
 
-<param ve-entity eid="Q1264942"> <!-- Dumbarton Oaks -->
+<param ve-entity eid=""> <!-- Dumbarton Oaks -->
 <param ve-entity eid="Q104796447"> <!-- "Plant Humanities" -->
 <param ve-entity eid="Q47041"> <!-- biodiversity -->
 <param ve-entity eid="Q4914734"> <!-- biocultural diversity -->
@@ -48,6 +48,12 @@ url="https://upload.wikimedia.org/wikipedia/commons/4/49/Siem_Reap%2C_varios_05.
 
 The Kingdom of Cambodia is considered a "biodiversity hotspot" in mainland Southeast Asia.[^2]
 Plants are very important in many parts of Cambodian day life and culture. They are eaten as food, made into medicines, used as decoration, and are incorporated into specific rituals for many rites of passage and community events. We began Plant Planet Plate as a way to share, safeguard, and celebrate the bio(cultural)diversity of Cambodia with plant enthusiasts all over the world.
+
+<param ve-image
+       url="https://upload.wikimedia.org/wikipedia/commons/a/a5/%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%A0%E1%9E%BB%E1%9E%80%E1%9E%85%E1%9F%86%E1%9E%A0%E1%9E%BB%E1%9E%99.jpg"
+       label=
+       attribution= "Channkhvy via Wikimedia Commons"
+       license= "CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>,"
 
 <param ve-entity eid= "Q424"> <!--Cambodia-->
 <param ve-entity eid= "Q11708"><!--Southeast Asia-->
