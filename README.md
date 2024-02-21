@@ -1,11 +1,11 @@
 <param ve-config 
        title="Plant Planet Plate"
-       author="Ashley Thuthao Keng Dam, Ph.D. & Green Shoots Foundation "
+       author="Ashley Thuthao Keng Dam & Green Shoots Foundation "
        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cambodian_-_Vessantara_Jataka%2C_Chapter_11_-_Jujaka_Treats_Jali_and_Kanha_Poorly%3B_While_Jujaka_Sleeps_the_Children_are_Cared_For_-_Walters_20101241_-_Front_A_T.jpg/640px-thumbnail.jpg" 
        layout="vertical">
 
 
-#  Plants Stories
+# Plants Stories
 
 Before there were humans, there were plants. Throughout history, plants have nourished and inspired us in many different ways. Whether it's a tasty recipe, carefully-guarded healing cure, or creative projects in music and the arts, the impact of plants on the course of human cultures is astounding. Indeed, we humans have quite extensive and diverse relationships with plants. Despite laying down sturdy roots, plants are very active and influential. Their unique compositions of chemicals, colours, and dispersion have both helped and harmed us humans across time. They feed us, shelter us, help us dream, soothe our stresses, and more often than we'd like to admit -- kill us dead.
 
@@ -33,7 +33,7 @@ Through Plant Humanities, we are able to better understand the overlapping conne
 url="https://upload.wikimedia.org/wikipedia/commons/4/49/Siem_Reap%2C_varios_05.jpg"
        label="ផ្កាក្នុងកូនកញ្ច្រែញ(_flowers as seedlings_)" 
        attribution="LBM1948 via Wikimedia Commons"
-       license= CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>,
+       license= CC BY-SA 4.0
        fit="contain">
 
 
