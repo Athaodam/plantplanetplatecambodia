@@ -9,7 +9,7 @@
 
 Before there were humans, there were plants. Throughout history, plants have nourished and inspired us in many different ways. Whether it's a tasty recipe, carefully-guarded healing cure, or creative projects in music and the arts, the impact of plants on the course of human cultures is astounding. Indeed, we humans have quite extensive and diverse relationships with plants. Despite laying down sturdy roots, plants are very active and influential. Their unique compositions of chemicals, colours, and dispersion have both helped and harmed us humans across time. They feed us, shelter us, help us dream, soothe our stresses, and more often than not -- kill us dead. In efforts to capture, uplift, and showcase these dynamic inter-species relationships, the research institution Dumbarton Oaks coined the term "Plant Humanities" which  "explores and communicates the unparalleled significance of plants to human culture."[^1] Since its inception, interest and application of Plant Humanities, as an approach, initiative, and discipline, has grown considerably. This enthusiasm for plants has sprouted several fruitful collabrations across disciplines and sectors around the world.
 
-
+.ve-media wc:ផ្កាក្នុងកូនកញ្ច្រែញ.jpg static
 
 <param ve-image
 url="https://upload.wikimedia.org/wikipedia/commons/4/4c/%E1%9E%95%E1%9F%92%E1%9E%80%E1%9E%B6%E1%9E%80%E1%9F%92%E1%9E%93%E1%9E%BB%E1%9E%84%E1%9E%80%E1%9E%BC%E1%9E%93%E1%9E%80%E1%9E%89%E1%9F%92%E1%9E%85%E1%9F%92%E1%9E%9A%E1%9F%82%E1%9E%89.jpg"
