@@ -7,20 +7,17 @@
 
 #  Plants Stories
 
-Before there were humans, there were plants. Throughout history, plants have nourished and inspired us in many different ways. Whether it's a tasty recipe, carefully-guarded healing cure, or creative projects in music and the arts, the impact of plants on the course of human cultures is astounding. Indeed, we humans have quite extensive and diverse relationships with plants. Despite laying down sturdy roots, plants are very active and influential. Their unique compositions of chemicals, colours, and dispersion have both helped and harmed us humans across time. They feed us, shelter us, help us dream, soothe our stresses, and more often than not -- kill us dead. In efforts to capture, uplift, and showcase these dynamic inter-species relationships, the research institution Dumbarton Oaks coined the term "Plant Humanities" which  "explores and communicates the unparalleled significance of plants to human culture."[^1] Since its inception, interest and application of Plant Humanities, as an approach, initiative, and discipline, has grown considerably. This enthusiasm for plants has sprouted several fruitful collabrations across disciplines and sectors around the world.
-
-.ve-media wc:ផ្កាក្នុងកូនកញ្ច្រែញ.jpg static
+Before there were humans, there were plants. Throughout history, plants have nourished and inspired us in many different ways. Whether it's a tasty recipe, carefully-guarded healing cure, or creative projects in music and the arts, the impact of plants on the course of human cultures is astounding. Indeed, we humans have quite extensive and diverse relationships with plants. Despite laying down sturdy roots, plants are very active and influential. Their unique compositions of chemicals, colours, and dispersion have both helped and harmed us humans across time. They feed us, shelter us, help us dream, soothe our stresses, and more often than we'd like to admit -- kill us dead.
 
 <param ve-image
 url="https://upload.wikimedia.org/wikipedia/commons/4/4c/%E1%9E%95%E1%9F%92%E1%9E%80%E1%9E%B6%E1%9E%80%E1%9F%92%E1%9E%93%E1%9E%BB%E1%9E%84%E1%9E%80%E1%9E%BC%E1%9E%93%E1%9E%80%E1%9E%89%E1%9F%92%E1%9E%85%E1%9F%92%E1%9E%9A%E1%9F%82%E1%9E%89.jpg"
        label="ផ្កាក្នុងកូនកញ្ច្រែញ(_flowers as seedlings_)" 
        attribution="Lien chariya via Wikimedia Commons"
        license= CC BY-SA 4.0 
-     
+       fit="contain">
 
 
-
-    
+In efforts to capture, uplift, and showcase these dynamic inter-species relationships, the research institution Dumbarton Oaks coined the term "Plant Humanities" which  "explores and communicates the unparalleled significance of plants to human culture."[^1] Since its inception, interest and application of Plant Humanities, as an approach, initiative, and discipline, has grown considerably. This enthusiasm for plants has sprouted several fruitful collabrations across disciplines and sectors around the world.
 
 <param ve-image
 url="https://upload.wikimedia.org/wikipedia/commons/8/8c/100_Piastres_-_Institut_d%27%C3%89mission_des_%C3%89tats_du_Cambodge%2C_du_Laos_et_du_Viet-Nam_%281954%29_Laos_02.jpg"
@@ -31,6 +28,14 @@ url="https://upload.wikimedia.org/wikipedia/commons/8/8c/100_Piastres_-_Institut
 
 
 Through Plant Humanities, we are able to better understand the overlapping connections human beings have with the nature which surrounds us. These exchanges enhance our affinity for protecting, preserving, and bolstering both biodiversity and biocultural diversity, which are increasingly threatened by the ongoing impacts of climate change.
+
+<param ve-image
+url="https://upload.wikimedia.org/wikipedia/commons/4/49/Siem_Reap%2C_varios_05.jpg"
+       label="ផ្កាក្នុងកូនកញ្ច្រែញ(_flowers as seedlings_)" 
+       attribution="LBM1948 via Wikimedia Commons"
+       license= CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>,
+       fit="contain">
+
 
 <param ve-entity eid="Q1264942"> <!-- Dumbarton Oaks -->
 <param ve-entity eid="Q104796447"> <!-- "Plant Humanities" -->
