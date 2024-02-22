@@ -79,7 +79,7 @@ At a glance:
 
 **Ashley Thuthao Keng Dam (they/them/theirs)**
 Ashley Thuthao Keng Dam is a Khmer and Vietnamese American medical anthropologist, ethnobotanist, and food writer. 
-As a National Geographic Society explorer, Thao 
+As a National Geographic Society explorer, Thao was able to expand upon their doctoral research on the curative cuisines of Cambodia. 
 
 **Muneezay Jaffery (she/her/hers)**
 
@@ -87,14 +87,15 @@ As a National Geographic Society explorer, Thao
 Saluth Loun is a local farmer and the Head Gardener of the Agri-Tech Centre’s growing spaces.
 Endlessly knowledgeable of local plant species and how to nourish them, he is the main caretaker of the Plant Planet Plate garden and its newly transplanted species.
 
-
+                             
 **Sarin Sak (he/him/his)**
 Sarin Sak is the former Project Manager of the Agri-Tech Centre. He has over 20 years of experience in community development and is a farmer himself, where he focuses on vegetable gardening, cultivating mushrooms, and raising pigs.
 Sarin provided invaluable insights as a research assistant and field translator. 
 
+         
+                             
 **Sreypich Chhun (she/her/hers)**
 
-Mr. 
 Sreypich Chhun is a master's student at the Royal University of Agriculture (Cambodia) majoring in Agricultural Extension. Also, she is a graduate research assistant supported by scholarship from the Center of Excellence on Sustainable Agricultural Intensification of Nutrition (CE SAIN). Under CE SAIN's project "S-3 Cambodia: Scaling Suitable Sustainable Technologies" framework she has conducted research for her thesis entitled "Assessment on Secondhand School Students' Knowledge and Perception Through the Training in Nutrition-based Wild Food plants Garden." Sreypich contributed to Plant Planet Plate as a research assistant and field translator.
 
 
