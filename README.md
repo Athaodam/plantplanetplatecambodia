@@ -1,7 +1,7 @@
 <param ve-config 
        title="Plant Planet Plate"
        author="Ashley Thuthao Keng Dam & Green Shoots Foundation "
-       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cambodian_-_Vessantara_Jataka%2C_Chapter_11_-_Jujaka_Treats_Jali_and_Kanha_Poorly%3B_While_Jujaka_Sleeps_the_Children_are_Cared_For_-_Walters_20101241_-_Front_A_T.jpg/640px-thumbnail.jpg" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/8/85/Prince_Temiya_lifts_up_his_royal_coach.jpg" 
        layout="vertical">
 
 
