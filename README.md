@@ -82,6 +82,7 @@ Ashley Thuthao Keng Dam is a Khmer and Vietnamese American medical anthropologis
 As a National Geographic Society explorer, Thao was able to expand upon their doctoral research on the curative cuisines of Cambodia. 
 
 **Muneezay Jaffery (she/her/hers)**
+Muneezay Jaffery is the Operations Manager for Green Shoots Foundation <https://greenshootsfoundation.org/>, a UK registered Charity working in Cambodia since 2012.  For the charity, Muneezay has worked on strategising and managing projects related to environmental education, chemical-free farming and sustainable diets. For Plant Planet Plate, Muneezay worked on data collection within the community, cross-verification of plant names and research for the database. Her favourite part of the project is its unique positioning between the natural environment, the innate plant knowledge within villages and the sustenance these plants offer. Muneezay graduated from University College London in 2010 with a Masters in Environmental Sociology (Environment, Science and Politics) and her final research thesis was on Mimicking and Mediating nature whilst practicing permaculture in 10 community gardens of London.
 
 **Saluth Loun (he/him/his)** 
 Saluth Loun is a local farmer and the Head Gardener of the Agri-Tech Centre’s growing spaces.
