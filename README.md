@@ -23,8 +23,10 @@ In efforts to capture, uplift, and showcase these dynamic inter-species relation
 url="https://upload.wikimedia.org/wikipedia/commons/8/8c/100_Piastres_-_Institut_d%27%C3%89mission_des_%C3%89tats_du_Cambodge%2C_du_Laos_et_du_Viet-Nam_%281954%29_Laos_02.jpg"
        label="ផ្កាក្នុងកូនកញ្ច្រែញ(_flowers as seedlings_)" 
        attribution="The Institut d'Émission des États du Cambodge, du Laos et du Viet-Nam. via Wikimedia Commons"
-       license= Public domain 
-       fit="contain">
+       license= Public domain>
+    
+
+
 
 
 Through Plant Humanities, we are able to better understand the overlapping connections human beings have with the nature which surrounds us. These exchanges enhance our affinity for protecting, preserving, and bolstering both ==biodiversity=={Q47041} and ==biocultural diversity=={Q4914734}, which are increasingly threatened by the ongoing impacts of climate change.
@@ -33,8 +35,8 @@ Through Plant Humanities, we are able to better understand the overlapping conne
 url="https://upload.wikimedia.org/wikipedia/commons/4/49/Siem_Reap%2C_varios_05.jpg"
        label="ផ្កាក្នុងកូនកញ្ច្រែញ(_flowers as seedlings_)" 
        attribution="LBM1948 via Wikimedia Commons"
-       license= CC BY-SA 4.0  
-       fit="contain">
+       license= CC BY-SA 4.0>
+  
 
 
 
