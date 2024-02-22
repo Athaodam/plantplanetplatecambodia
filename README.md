@@ -56,7 +56,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/a/a5/%E1%9E%94%E1%9F%92%E1%9
 
 # Our Mission
 
-+ To understand how people living in ==Oddar Meanchey Province, Cambodia== {Q629538} collect, prepare, and use foraged plants in their daily lives as food, medicine, and beyond.
++ To understand how people living in ==Oddar Meanchey Province, Cambodia=={Q629538} collect, prepare, and use foraged plants in their daily lives as food, medicine, and beyond.
 + To highlight local plant species and cultural practices around them 
 + To highlight glimpses of the local traditional ecological knowledge of the vibrant communities living around the province
 
@@ -64,15 +64,15 @@ url="https://upload.wikimedia.org/wikipedia/commons/a/a5/%E1%9E%94%E1%9F%92%E1%9
 
 # Design & approaches
 
-Our project uses a mix of theories and methods from the disciplines of ==ethnobotany=={Q841408}, ==food studies=={Q3232953}, and ==medical anthropology=={Q1779521}. In order to capture individual thoughts, experiences, and perceptions of people with the plants around them we conducted semi-structured interviews. We asked people to explain to us their foraging habits, the different plant species they encounter, and how they use them. When possible, we accompanied these people to collect ==botanical specimens== {Q120431565} of the plants they were describing. We visited the protected Monk Community Forest, where we spoke to and were guided by several monks living there to better understand plants which abundantly grew around them. We hosted a "forage and feast" field trip with several local students from the ==Enfants du Mékong== {Q29378729} school, where
+Our project uses a mix of theories and methods from the disciplines of ==ethnobotany=={Q841408}, ==food studies=={Q3232953}, and ==medical anthropology=={Q1779521}. In order to capture individual thoughts, experiences, and perceptions of people with the plants around them we conducted semi-structured interviews. We asked people to explain to us their foraging habits, the different plant species they encounter, and how they use them. When possible, we accompanied these people to collect ==botanical specimens=={Q120431565} of the plants they were describing. We visited the protected Monk Community Forest, where we spoke to and were guided by several monks living there to better understand plants which abundantly grew around them. We hosted a "forage and feast" field trip with several local students from the ==Enfants du Mékong=={Q29378729} school joined our team for a foraging walk and lunch at the Monk Community Forest.
 
 At a glance: 
 + Conducted 50 semi-structured interviews with people living across Oddar Meanchey Province in Khmer with live English field translation
 + Created a Plant Planet Plate Garden 
 + Hosted 1 "Forage and Feast" field trip with Enfants du Mékong
 + Built 2 plant presses from local materials for the Agri-Tech Centre
-+ 
-+ Prepared 
++ Prepared plant specimens to be deposited into the National Herbarium of Cambodia
+                        
 
 
 # Our Team
