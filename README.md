@@ -9,6 +9,7 @@
 
 Before there were humans, there were plants. Throughout history, plants have nourished and inspired us in many different ways. Whether it's a tasty recipe, carefully-guarded healing cure, or creative projects in music and the arts, the impact of plants on the course of human cultures is astounding. Indeed, we humans have quite extensive and diverse relationships with plants. Despite laying down sturdy roots, plants are very active and influential. Their unique compositions of chemicals, colours, and dispersion have both helped and harmed us humans across time. They feed us, shelter us, help us dream, soothe our stresses, and more often than we'd like to admit -- kill us dead.
 
+.ve-media https://iiif.juncture-digital.org/wc:Sunflower.jpg/manifest.json left
 
 <param ve-image
        url= "https://upload.wikimedia.org/wikipedia/commons/1/13/Cambodian_-_Vessantara_Jataka%2C_Chapter_11_-_Jujaka_Treats_Jali_and_Kanha_Poorly%3B_While_Jujaka_Sleeps_the_Children_are_Cared_For_-_Walters_20101241_-_Front_A_T.jpg">
@@ -91,8 +92,8 @@ As a National Geographic Society explorer, Thao was able to expand upon their do
 **Muneezay Jaffery (she/her/hers)**
 Muneezay Jaffery is the Operations Manager for Green Shoots Foundation <https://greenshootsfoundation.org/>, a UK registered Charity working in Cambodia since 2012.  For the charity, Muneezay has worked on strategising and managing projects related to environmental education, chemical-free farming and sustainable diets. For Plant Planet Plate, Muneezay worked on data collection within the community, cross-verification of plant names and research for the database. Her favourite part of the project is its unique positioning between the natural environment, the innate plant knowledge within villages and the sustenance these plants offer. Muneezay graduated from University College London in 2010 with a Masters in Environmental Sociology (Environment, Science and Politics) and her final research thesis was on Mimicking and Mediating nature whilst practicing permaculture in 10 community gardens of London.
 
-**Saluth Loun (he/him/his)** 
-Saluth Loun is a local farmer and the Head Gardener of the Agri-Tech Centre’s growing spaces.
+**Bun Saloun (he/him/his)** 
+Bun Saloun is a local farmer and the Head Gardener of the Agri-Tech Centre’s growing spaces.
 Endlessly knowledgeable of local plant species and how to nourish them, he is the main caretaker of the Plant Planet Plate garden and its newly transplanted species.
 
                              
