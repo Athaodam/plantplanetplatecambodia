@@ -12,7 +12,7 @@ Before there were humans, there were plants. Throughout history, plants have nou
 .ve-media https://iiif.juncture-digital.org/wc:Sunflower.jpg/manifest.json left
 
 <param ve-image
-       url= "https://upload.wikimedia.org/wikipedia/commons/1/13/Cambodian_-_Vessantara_Jataka%2C_Chapter_11_-_Jujaka_Treats_Jali_and_Kanha_Poorly%3B_While_Jujaka_Sleeps_the_Children_are_Cared_For_-_Walters_20101241_-_Front_A_T.jpg">
+       url= "https://upload.wikimedia.org/wikipedia/commons/1/13/Cambodian_-_Vessantara_Jataka%2C_Chapter_11__Jujaka_Treats_Jali_and_Kanha_Poorly%3B_While_Jujaka_Sleeps_the_Children_are_Cared_For_-_Walters_20101241_-_Front_A_T.jpg">
        label="Jujaka Treats Jali and Kanha Poorly; While Jujaka Sleeps the Children are Cared For"
        attribution= "Walters Art Museum via Wikimedia Commons"
        license= Public domain>
@@ -74,6 +74,21 @@ url="https://upload.wikimedia.org/wikipedia/commons/a/a5/%E1%9E%94%E1%9F%92%E1%9
 
 Our project uses a mix of theories and methods from the disciplines of ==ethnobotany=={Q841408}, ==food studies=={Q3232953}, and ==medical anthropology=={Q1779521}. In order to capture individual thoughts, experiences, and perceptions of people with the plants around them we conducted semi-structured interviews. We asked people to explain to us their foraging habits, the different plant species they encounter, and how they use them. When possible, we accompanied these people to collect ==botanical specimens=={Q120431565} of the plants they were describing. We visited the protected Monk Community Forest, where we spoke to and were guided by several monks living there to better understand plants which abundantly grew around them. We hosted a "forage and feast" field trip with several local students from the ==Enfants du Mékong=={Q29378729} school joined our team for a foraging walk and lunch at the Monk Community Forest.
 
+.
+ 
+The compiled plant lists and names were segregated according to use and were cross-checked with available provincial botanical records at the National Herbarium of Cambodia at the Royal University of Phnom Penh. The following sources have been used to cross-check and identify scientific plant names:
+·      Seav, S., Lo, S., Ry, S., Ngang, C., Pok, P., Pekarcik, C. G., Huot, S., Ader, D., Bates, R., and
+ Srean, P. 2021. Wild world of wild food plants in Cambodia: the utilization, challenges, and opportunities to scaling up the use of wild food plants. Agritropica: Journal of Agricultural Science. 4 (2): 102-113
+·      Wild Food Plants in Cambodia (2022)
+·      Huot, Ader, Pao, Bates, and Goertz (2023)
+·       Dictionary of plants used in Cambodia (2000)
+ 
+ 
+ 
+The methodology outlined above received ethical approval from the Università degli Studi di Scienze Gastronomiche research ethics committee on March 31st,
+2022 under resolution 2/2022;
+
+
 **At a glance:** 
 + Conducted 50 semi-structured interviews with people living across Oddar Meanchey Province in Khmer with live English field translation
 + Created a Plant Planet Plate Garden 
@@ -119,7 +134,6 @@ Plant Planet Plate has been generously funded by the ==National Geographic Socie
 Planet Planet Plate is a collaborative effort between academic institutions and NGOs based in Cambodia, The Netherlands, and the United Kingdom. Namely: ==Maastricht University (The Netherlands)=={Q1137652}, Green Shoots Foundation (United Kingdom), The ==Royal University of Phnom Penh=={Q1709572}, The National Herbarium of Cambodia, The ==Royal University of Agriculture (Cambodia)=={Q7374951}, and the ==University of Battambang (Cambodia)=={Q30265680}. 
 
 Plant Planet Plate also has a sister project based at Maastricht University called Plant Planet Plate Limburg which is also led by Dr. Ashley Thuthao Keng Dam. It is an inter-disciplinary and inter-faculty effort supported by Dr. Roy Erkens, Dr. Aodhán Kelly, and a team of dedicated research assistants and volunteers. Plant Planet Plate Limburg is generously funded by a UM Sustainability Seed Grant.
-
 
 
 [^1]: [DumbartonOaks] (https://www.doaks.org/research/mellon-initiatives/plant-humanities-initiative)
