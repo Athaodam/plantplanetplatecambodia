@@ -10,6 +10,13 @@
 Before there were humans, there were plants. Throughout history, plants have nourished and inspired us in many different ways. Whether it's a tasty recipe, carefully-guarded healing cure, or creative projects in music and the arts, the impact of plants on the course of human cultures is astounding. Indeed, we humans have quite extensive and diverse relationships with plants. Despite laying down sturdy roots, plants are very active and influential. Their unique compositions of chemicals, colours, and dispersion have both helped and harmed us humans across time. They feed us, shelter us, help us dream, soothe our stresses, and more often than we'd like to admit -- kill us dead.
 
 
+<param .ve-image 
+url="https://upload.wikimedia.org/wikipedia/commons/4/4c/%E1%9E%95%E1%9F%92%E1%9E%80%E1%9E%B6%E1%9E%80%E1%9F%92%E1%9E%93%E1%9E%BB%E1%9E%84%E1%9E%80%E1%9E%BC%E1%9E%93%E1%9E%80%E1%9E%89%E1%9F%92%E1%9E%85%E1%9F%92%E1%9E%9A%E1%9F%82%E1%9E%89.jpg"
+       label="ផ្កាក្នុងកូនកញ្ច្រែញ( _flowers as seedlings_ )" 
+       attribution="Lien chariya via Wikimedia Commons"
+       license= Public domain 
+       fit="contain">
+       
 <param .ve-image
        url= "https://upload.wikimedia.org/wikipedia/commons/1/13/Cambodian_-_Vessantara_Jataka%2C_Chapter_11__Jujaka_Treats_Jali_and_Kanha_Poorly%3B_While_Jujaka_Sleeps_the_Children_are_Cared_For_-_Walters_20101241_-_Front_A_T.jpg">
        label="Jujaka Treats Jali and Kanha Poorly; While Jujaka Sleeps the Children are Cared For"
