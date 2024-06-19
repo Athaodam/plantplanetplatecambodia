@@ -7,37 +7,7 @@
 
 # Introduction
 
-**Benvolio**
-
-_Tut, man, one fire burns out another's burning;
-One pain is lessened by another's anguish;
-Turn giddy and be holp by backward turning;
-One desperate grief cures with another's languish.
-Take thou some new infection to thy eye,
-And the rank poison of the old will die._                        
-
-**Romeo**
-
-_Your plantain leaf is excellent for that._
-
-**Benvolio**
-
-_For what, I pray thee?_
-
-**Romeo**
-
-_For your broken shin._
-
-(Shakespeare, 1597)
-
-
-Amidst the passion and tragedy of ==Shakespeare’s=={Q692} ==“Romeo and Juliet”=={Q83186} lies a moment of unexpected botanical wisdom. As Romeo and Benvolio playfully talk about a cure for Romeo's “broken shin”, slang for a broken heart, Romeo jokes about the healing power of a plantain leaf. Beyond the jest and fiction of this exchange, the scene hints at the very real powers of plantains. But what is this magic herb that Shakespeare already referred to as a cure-all? How did it gain such a reputation? What other remarkable powers does it possess? And -most importantly- where can we find it next time we suffer from ==lovesickness=={Q13604751}? 
-
-Join us  as we unravel the intertwining of the healing properties and cultural significance of the ribwort plantain, one of the widest spread and arguably most important members of the family of plantains. 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.[^1]
-
-[^1]: Lorem ipsum text obtained from [https://loremipsum.io/#generator](https://loremipsum.io/#generator)
+You might think of a ==Game of Thrones=={Q23572} character when you think of the name Tansy, but really it is a beautiful, yet tricky, plant common in ==Limburg, The Netherlands=={Q1093}. It is known for its bright yellow round flower heads which can withstand fierce weather circumstances. That is probably why the plant got its name: Tanacetum Vulgare. 
 
 ## Markdown lists
 
