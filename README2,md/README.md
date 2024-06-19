@@ -1,7 +1,7 @@
 <param ve-config 
-       title="Plantago lanceolata (Ribwort Plantain)"
-       author="Helena (Plant Planet Plate Limburg)"
-       banner="https://upload.wikimedia.org/wikipedia/commons/a/ab/Plantago_lanceolata_109003604.jpg" 
+       title="Tansy"
+       author="Iris (Plant Planet Plate Limburg)"
+       banner="https://upload.wikimedia.org/wikipedia/commons/1/1e/Tanacetum_vulgare_in_Turkey.jpg" 
        layout="vertical">
 
 
@@ -35,7 +35,9 @@ Amidst the passion and tragedy of ==Shakespeare’s=={Q692} ==“Romeo and Julie
 
 Join us  as we unravel the intertwining of the healing properties and cultural significance of the ribwort plantain, one of the widest spread and arguably most important members of the family of plantains. 
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.[^1]
 
+[^1]: Lorem ipsum text obtained from [https://loremipsum.io/#generator](https://loremipsum.io/#generator)
 
 ## Markdown lists
 
