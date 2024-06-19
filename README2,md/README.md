@@ -31,7 +31,7 @@ _For your broken shin._
 (Shakespeare, 1597)
 
 
-Amidst the passion and tragedy of ==Shakespeare’s== {Q692} ==“Romeo and Juliet”== {Q83186} lies a moment of unexpected botanical wisdom. As Romeo and Benvolio playfully talk about a cure for Romeo's “broken shin”, slang for a broken heart, Romeo jokes about the healing power of a plantain leaf. Beyond the jest and fiction of this exchange, the scene hints at the very real powers of plantains. But what is this magic herb that Shakespeare already referred to as a cure-all? How did it gain such a reputation? What other remarkable powers does it possess? And -most importantly- where can we find it next time we suffer from lovesickness? 
+Amidst the passion and tragedy of ==Shakespeare’s== {Q692} ==“Romeo and Juliet”== {Q83186} lies a moment of unexpected botanical wisdom. As Romeo and Benvolio playfully talk about a cure for Romeo's “broken shin”, slang for a broken heart, Romeo jokes about the healing power of a plantain leaf. Beyond the jest and fiction of this exchange, the scene hints at the very real powers of plantains. But what is this magic herb that Shakespeare already referred to as a cure-all? How did it gain such a reputation? What other remarkable powers does it possess? And -most importantly- where can we find it next time we suffer from ==lovesickness== {Q13604751}? 
 
 Join us  as we unravel the intertwining of the healing properties and cultural significance of the ribwort plantain, one of the widest spread and arguably most important members of the family of plantains. 
 
