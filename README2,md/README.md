@@ -28,7 +28,7 @@ _For what, I pray thee?_
 
 _For your broken shin._
 
-Taken from _==Romeo and Juliet== {Q83186}_ (Shakespeare, 1597)
+Taken from ==Romeo and Juliet=={Q83186} (Shakespeare, 1597)
 
 
 ## Markdown lists
