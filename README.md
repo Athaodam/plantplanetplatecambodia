@@ -3,8 +3,8 @@
 
 <param ve-config 
        title="Plant Planet Plate"
-       author="Ashley Thuthao Keng Dam in collaboration with Green Shoots Foundation "
-       banner="https://upload.wikimedia.org/wikipedia/commons/8/85/Prince_Temiya_lifts_up_his_royal_coach.jpg" 
+       author="Ashley Thuthao Keng Dam & Green Shoots Foundation "
+       banner="[https://upload.wikimedia.org/wikipedia/commons/8/85/Prince_Temiya_lifts_up_his_royal_coach.jpg](https://upload.wikimedia.org/wikipedia/commons/5/5f/Cannonball_Tree_Couroupita_guianensis_Nagalingam_flower_Tamil_Nadu_India.jpg)" 
        layout="vertical">
 
 
